@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafaAIOTech
 - 👀 I’m interested in software development
 - 🌱 I’m currently building my software company
-- 💞️ I’m looking to collaborate on great businesses and individuals who want to make a good impact on the world
+- 💞️ I’m looking to collaborate with great businesses and individuals who want to make a good impact on the world
 - 📫 How to reach me mustafa.aiotech@gmail.com
 
 <!---
